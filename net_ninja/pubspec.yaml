@@ -1,0 +1,5 @@
+name: net_ninja_flutter
+environment:
+  sdk: "^3.10.0"
+dependencies:
+  http: ^1.6.0
